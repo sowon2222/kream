@@ -98,8 +98,6 @@ cp config.example.py config.py
 # config.py 내부에 API 키 및 로그인 정보 입력
 ```
 
-**주의**: `config.py`는 `.gitignore`에 포함되어 Git에 업로드되지 않습니다.
-민감 정보(API Key)는 절대 커밋하지 마세요.
 
 ### 사용 방법
 
