@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 가상 환경
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# 환경 변수 및 설정 파일
+config.py
+.env
+.env.local
+
+# 모델 파일 (선택사항 - 큰 파일은 Git LFS 사용 권장)
+# *.pkl
+
+# 데이터 파일 (선택사항 - 큰 파일은 Git LFS 사용 권장)
+# dataset/
+# *.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# API 키 및 민감 정보
+*_key.txt
+*_secret.txt
+credentials.json
+
+# 임시 파일
+*.tmp
+*.temp
+
